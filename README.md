@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhuvan Nanda</h1>
 <h3 align="center">Engineer by Degree, Developer by Passion — Backend | APIs | Java</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvannanda11&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvannanda11" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhuvannanda11" alt="bhuvannanda11" /></a> </p>
 
 - 📫 How to reach me **bhuvannanda0011@gmail.com**
