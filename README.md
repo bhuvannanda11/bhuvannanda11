@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhuvannanda11&show_icons=true&locale=en" alt="bhuvannanda11" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvannanda11&" alt="bhuvannanda11" /></p>
+<p><img align="center" src="https://github.com/bhuvannanda11" alt="bhuvannanda11" /></p>
